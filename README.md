@@ -25,7 +25,7 @@ To install Speller, you need to have Rust and Cargo installed on your machine. F
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/speller.git
+git clone https://github.com/francescofarina/speller.git
 ```
 
 2. Change to the project directory:
