@@ -10,6 +10,14 @@ Speller is a Rust-based command-line application that helps users spell words us
 
 ## Installation
 
+### Pre-built binaries
+
+You can install and use Speller through `cargo` by running the following command:
+
+```sh
+cargo install speller
+```
+
 ### Development
 
 To install Speller, you need to have Rust and Cargo installed on your machine. Follow these steps:
